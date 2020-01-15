@@ -1,0 +1,2 @@
+# PowellCCC
+# The included scripts construct coral calcification capacity (CCC), a metric that scales a coral community by it's capacity to build calcium carbonate structures, for coral reefs in the Main Hawaiian Islands, Florida Keys, Mo'orea, and St. John. The main script lists the required packages needed to run the script and executes all scripts in the R project file necessary to construct and analyze patterns in CCC for the focal regions. All data are previously published in the USGS data release Guest et al (2018) https://doi.org/10.5066/F78W3C7W
